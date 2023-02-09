@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -hi betty:alx
+chown -hr betty:alx
